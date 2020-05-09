@@ -308,5 +308,25 @@
     "description": "A truffle box starter to build upgradable-proxy contracts with included React frontend to demonstrate the process.",
     "stars": "0",
     "tags": ["community"]
+  },
+  "rsk-starter-box": {
+    "description": "This box comes with everything needed to start using Truffle on RSK Network, including configurations for Mainnet and Testnet",
+    "stars": "0",
+    "tags": ["community", "rsk"]
+  },
+  "rsk-react-box": {
+    "description": "This box comes with everything needed to start using Truffle on RSK Network, including configurations for Mainnet and Testnet",
+    "stars": "0",
+    "tags": ["community", "rsk", "react"]
+  },
+  "rsk-next-box": {
+    "description": "This box comes with everything needed to start using Truffle on RSK Network, including configurations for Mainnet and Testnet",
+    "stars": "0",
+    "tags": ["community", "rsk", "next"]
+  },
+  "rsk-react-express-box": {
+    "description": "This box comes with everything needed to start using Truffle on RSK Network, including configurations for Mainnet and Testnet",
+    "stars": "0",
+    "tags": ["community", "rsk", "react", "express"]
   }
 }
