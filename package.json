@@ -18,7 +18,7 @@
     "browser-sync": "^2.26.7",
     "imagemin-cli": "^6.0.0",
     "jquery": "^3.5.1",
-    "jsdom": "^11.8.0",
+    "jsdom": "^16.5.0",
     "jstransformer-handlebars": "^1.1.0",
     "metalsmith": "^2.3.0",
     "metalsmith-browser-sync": "^1.1.1",
